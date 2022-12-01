@@ -3,10 +3,10 @@
 ## Установка
 
      git clone https://github.com/nyosru/lara8-vue3-start-kit.git
-     cd laravel-vue-starter
+     cd lara8-vue3-start-kit
      copy .env.example .env
      php artisan key:generate
-     composer install
-     npm install
+     php composer.phar install
+     npm i
 
 Делай! иначе не сделаешь
