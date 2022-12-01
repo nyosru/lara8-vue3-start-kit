@@ -1,16 +1,12 @@
 # Laravel 8 with Vue 3 SPA Starter
 
-demo: https://idemonbd.github.io/laravel-vue-starter
+## Установка
 
-## Installation
-
-Run command one by one:
-
-     git clone https://https://github.com/idemonbd/laravel-vue-starter.git
+     git clone https://github.com/nyosru/lara8-vue3-start-kit.git
      cd laravel-vue-starter
      copy .env.example .env
      php artisan key:generate
      composer install
      npm install
-Enjoy.....!
-If you fevorite this repo, I will be happy...:
+
+Делай! иначе не сделаешь
