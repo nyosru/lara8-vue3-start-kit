@@ -4,9 +4,9 @@
 
      git clone https://github.com/nyosru/lara8-vue3-start-kit.git
      cd lara8-vue3-start-kit
-     copy .env.example .env
+     cp .env.example .env
+     php composer.phar i
      php artisan key:generate
-     php composer.phar install
      npm i
 
 Делай! иначе не сделаешь
